@@ -18,7 +18,7 @@ The Library Management System is a command-line application built in C++ to mana
 1. Clone the repository to your local machine:
 
 bash
-git clone https://github.com/your-username/library-management-system.git
+git clone https://github.com/hafsa9911/sdp-project-1.git
 
 
 2. Navigate to the project directory:
